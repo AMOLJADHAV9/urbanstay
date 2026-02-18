@@ -1,4 +1,4 @@
-package com.example.urbanstay
+package com.amolj.urbanstay
 
 import io.flutter.embedding.android.FlutterActivity
 
