@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573709156651",
+    "project_id": "urbanstay-8f9e7",
+    "storage_bucket": "urbanstay-8f9e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573709156651:android:f3e99cda4914851d13856e",
+        "android_client_info": {
+          "package_name": "com.amol.urbanstay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANkx4lpCm4dmnV3DBULQdazPq3L3Gwpj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573709156651:android:905129518f24b06f13856e",
+        "android_client_info": {
+          "package_name": "com.amolj.urbanstay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANkx4lpCm4dmnV3DBULQdazPq3L3Gwpj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
